@@ -1,3 +1,5 @@
+#prueba2
+
 # Pruebas conflicto ##
 Repositorio para el curso de Git, GitHub y R
 
